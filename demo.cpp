@@ -4,6 +4,6 @@ int main(){
     cout << "Hello world";
     cout << "Hello boy";
     cout << "Hello baby";
-    cout << "Hello girl";
+    cout << "Hello darling";
     return 0;
 }
