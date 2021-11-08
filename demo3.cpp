@@ -5,6 +5,6 @@ int main(){
     cout << "Playing game";
     cout << "Studing english";
     cout << "I don't nkow";
-    cout << "Love you";
+    cout << "No baby";
     return 0;
 }
